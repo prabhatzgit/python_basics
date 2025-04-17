@@ -1,4 +1,4 @@
-from oop.inheritance.Person import Person
+from oop.inheritance.case1.Person import Person
 
 class Student(Person):
     pass
