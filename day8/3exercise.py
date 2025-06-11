@@ -14,7 +14,7 @@ def calculate_love_score(name1, name2):
     print(f"Your love score is: {love_score}")
     return love_score
 
-name1 = input("Enter the first name: ")
-name2 = input("Enter the second name: ")
+name1 = "Angela Yu"
+name2 = "Jack Bauer"
 
 calculate_love_score(name1, name2)
